@@ -50,6 +50,4 @@
     console.log(stringa + media);
 
 
-    console.log(typeof media);
-
 
